@@ -1,0 +1,18 @@
+
+/* main div */
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.inputDesign{
+    width: 500px;
+}
+
+.buttonSetting{
+    background-color: aqua;
+    margin-left: 10px;
+}
